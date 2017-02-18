@@ -1,6 +1,6 @@
 # MiniEx2 - Steven with error
 
-
+<b>Screenshot:</b>
 ![screenshot](https://github.com/MariaOChristensen/MiniEx2/blob/master/Steven%20with%20error%20screenshot.png)
 <b>Coding process:</b>
 First when I opened Brackets I tried to put in some of the codes from p5.js' site.
