@@ -12,7 +12,8 @@ After inserting these codes I tested by creating a circle, and it successfully s
 Now that I had a chart I could begin creating my project.
 At first I wanted to create a smiley that would follow the mouse, and temporarily turn into a red circle with a cross at random moments to signal that an error had occurred. 
 I did succeed to insert an image of a smiley, but I could not have it follow the mouse, nor give it the right proportions.
-My plan B became a stationary smiley that was cut in half. From then on I simply just had to find the right shapes in p5.js' reference archive and alter their appearance and position to my liking. I succeeded to create a smiley cut in half by using arcs and ellipses.
+My plan B became a stationary smiley that was cut in half. In our instructor classes I had seen a classmate play around with the arc form in coding, so I had an idea about that this shape could help me achieve my goal. 
+From then on I had to locate the shapes in p5.js' reference archive and alter their appearance and position to my liking. I succeeded to create a smiley cut in half by using arcs and ellipses.
 
 <b>What constitutes a program?:</b>
 A program constitutes of the connection between commands and the execution of those commands. If I want to draw a circle I need to type a specific number of characters, because it has in advance been made so that these characters execute this circle.
