@@ -1,5 +1,7 @@
 # MiniEx2 - Steven with error
 
+
+![screenshot](https://github.com/MariaOChristensen/MiniEx2/blob/master/Steven%20with%20error%20screenshot.png)
 <b>Coding process:</b>
 First when I opened Brackets I tried to put in some of the codes from p5.js' site.
 They showed up in the browser as just the code instead of what the code should execute.
